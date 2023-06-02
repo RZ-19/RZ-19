@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riaj Hossain</h1>
 <h3 align="center">A passionate Btech. Student from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2IYkulM2-8EMHxXHqeL7fG&ust=1685820742276000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiwp_Sppf8CFQAAAAAdAAAAABAY">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rz-19&label=Profile%20views&color=0e75b6&style=flat" alt="rz-19" /> </p>
 
